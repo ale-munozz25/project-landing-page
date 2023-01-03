@@ -23,6 +23,7 @@ a,
     text-decoration: none;
     font-size: 18px;
     color: #E5E7EB;
+    margin-bottom: 16px;
 }
 
 .logo {
@@ -43,8 +44,7 @@ a,
     color: white;
     font-size: 18px;
     border-radius: 5px;
-
-
+    padding: 8px 30px;
 }
 
 .header {
@@ -53,4 +53,14 @@ a,
     padding: 10px 100px 60px ;
 }
 
+.middle {
+    display: flex;
+    padding: 0px 100px 100px;
+    gap: 50px;
+}
 
+.image-placeholder {
+    background-color: gray;
+    width: 300px;
+    padding: 60px;
+}
