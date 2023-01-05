@@ -56,11 +56,19 @@ a,
 .middle {
     display: flex;
     padding: 0px 100px 100px;
-    gap: 50px;
+    gap: 200px;
+    justify-content: space-between;
 }
 
 .image-placeholder {
     background-color: gray;
-    width: 300px;
+    width: 400px;
     padding: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    max-width: 450px;
 }
