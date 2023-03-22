@@ -72,3 +72,11 @@ a,
 .container {
     max-width: 450px;
 }
+
+.title {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 40px;
+}
