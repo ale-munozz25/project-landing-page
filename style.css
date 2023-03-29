@@ -124,3 +124,33 @@ a,
     font-weight: bold;
     text-align: right;
 }
+
+.sign-up {
+    color: #F9FAF8;
+    background-color: #3882F6;
+    margin: 100px;
+    border-radius: 10px;
+    padding: 50px 100px 50px 100px;
+    display: flex;
+    gap: 400px;
+}
+
+.call {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.click {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.blue-sign-up {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px 25px;
+}
