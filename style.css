@@ -154,3 +154,10 @@ a,
     font-weight: 500;
     padding: 10px 25px;
 }
+
+.footer {
+    text-align: center;
+    padding: 25px;
+    color: #E5E7EB;
+    font-size: 17px;
+}
